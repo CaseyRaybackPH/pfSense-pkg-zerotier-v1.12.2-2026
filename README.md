@@ -23,6 +23,6 @@ Standard pfSense ZeroTier installations often break because:
 2. **Upload** the file to your pfSense box (via SCP or Diagnostics > Command Prompt).
 3. **Install** via the shell:
    ```bash
-   pkg add pfSense-pkg-ZeroTier-Ultimate-Offline-1.12.2.txz
+   pkg add pfSense-pkg-ZeroTier-Ultimate-Offline-1.12.2.pkg
 
 4. Refresh your WebGUI. You will find the interface under VPN > ZeroTier.
